@@ -10,6 +10,9 @@ Using this list of counties we extracted the line of COVID data from the JHU Cen
 #### Cluster Analysis
 After removing unessacary column I standardized the factors for use in the cluster analysis using Exels, average, stdev, and standarize functions. Initially I used COVID Cases, Deaths, Median household income, and population. At some point I decided to pivot and replace Cases and Deaths with incident and death rate, because these rates control for population, which is a seperate factor. Then I choose the first four cities as placeholder anchors and extracted their info using vlookup. Then I used min and sumxmy2 functions to find the associated anchor and min distance. Then using the sum of these min distances and solver with restraints I found the four anchors that minimized the total min distances. 
 ## Analysis
+#### Regression
+#### Cluster
+
 ## Conclusions
 ## Data
 [JHU CSSE CSV March 24, 2021](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports_us/03-24-2021.csv)
@@ -19,3 +22,5 @@ After removing unessacary column I standardized the factors for use in the clust
 [Politifact 50 Largest US Cities](https://www.politifact.com/largestcities/)
 
 [Opportunity Atlas](https://www.opportunityatlas.org/)
+
+[Cluster Analysis](https://github.com/cmclane1/Covid-in-Americas-Largest-Cities/blob/main/Covid_Cities_Cluster.xlsx)
