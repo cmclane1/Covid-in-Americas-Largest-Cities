@@ -12,8 +12,9 @@ After removing unessacary column I standardized the factors for use in the clust
 ## Analysis
 #### Regression
 #### Cluster
+
 ![image](https://user-images.githubusercontent.com/78045592/112733033-f1465100-8f13-11eb-9575-e576cf7f59f2.png)
-)
+
 ## Conclusions
 ## Data
 [JHU CSSE CSV March 24, 2021](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports_us/03-24-2021.csv)
