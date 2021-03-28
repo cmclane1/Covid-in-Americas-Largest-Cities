@@ -67,3 +67,5 @@ The Cluster analysis provides a nice jumping off point for further city by city 
 [Opportunity Atlas](https://www.opportunityatlas.org/)
 
 [Cluster Analysis](https://github.com/cmclane1/Covid-in-Americas-Largest-Cities/blob/main/Covid_Cities_Cluster.xlsx)
+
+[Multiple Linear Regression]([Top 50 U.S. cities.xlsx](https://github.com/cmclane1/Covid-in-Americas-Largest-Cities/files/6218149/Top.50.U.S.cities.xlsx)
