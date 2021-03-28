@@ -2,6 +2,7 @@
 ## Background
 The pandemic has been affecting the world socially and economically nonstop. With over 124 million infections and 2.7 million deaths, the virus has had a catastrophic impact. The United States alone has 2.6 million cases with over 100,000 cases itself. To make matters worse, there are now 22 distinguishing mutations, 6 of which have the new gene that cause the virus to have enhanced transmission.
 [Covid-Statistics](https://www.medicalnewstoday.com/articles/live-updates-coronavirus-covid-19#1)
+
 [More statistics](https://www.nature.com/articles/d41586-020-00502-w)
 
 Taking a closer look at the United States,  cases have been rapidly increasing for larger cities. The higher population density has been associated with many more infections with around 38.7 daily cases per 100k.
